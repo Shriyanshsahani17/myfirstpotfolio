@@ -1,2 +1,2 @@
-# myfirstpotfolio
-This is my first portfolio webage
+# mypersonalportfolio
+This is my personal portfolio webage
